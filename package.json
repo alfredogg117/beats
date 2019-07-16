@@ -1,0 +1,17 @@
+{
+  "name": "beats_store_website",
+  "version": "1.0.0",
+  "description": "Personal website to sell my beats",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
